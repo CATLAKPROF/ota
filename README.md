@@ -1,0 +1,2 @@
+# ota
+ota version güncelleme
